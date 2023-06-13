@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushidonda
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me..
 <!---
 khushidonda/khushidonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
